@@ -1,0 +1,71 @@
+body {
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  width: 100%;
+  max-width: 1280px;
+  height: 400px;
+  margin: 0 auto;
+}
+
+.image_BG {
+  background-position: center !important;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  min-width: 300px;
+  height: 320px;
+}
+
+.content_slides {
+  width: 100%;
+  min-width: 300px;
+  height: 400px;
+  border: 1px solid blue;
+}
+
+.icon-title_bar {
+  height: 100%;
+  max-height: 80px;
+  padding: 0 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 15px;
+}
+
+.icon-title_bar img {
+  width: 40px !important;
+}
+
+.sld-one {
+  background: url(./Assets/img/benjamin-child-GWe0dlVD9e0-unsplash\ 1.png);
+}
+
+.sld-two {
+  background: url(./Assets/img/benjamin-child-GWe0dlVD9e0-unsplash\ 1.png);
+}
+
+.sld-three {
+  background: url(./Assets/img/benjamin-child-GWe0dlVD9e0-unsplash\ 1.png);
+}
+
+.sld-four {
+  background: url(./Assets/img/benjamin-child-GWe0dlVD9e0-unsplash\ 1.png);
+}
+
+.sld-five {
+  background: url(./Assets/img/benjamin-child-GWe0dlVD9e0-unsplash\ 1.png);
+}
+
+.sld-six {
+  background: url(./Assets/img/benjamin-child-GWe0dlVD9e0-unsplash\ 1.png);
+}
+
+.sld-seven {
+  background: url(./Assets/img/benjamin-child-GWe0dlVD9e0-unsplash\ 1.png);
+}
